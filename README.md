@@ -1,9 +1,9 @@
-##Projeto_Acidentes_Aereos##
+#Projeto_Acidentes_Aereos
 
 •	Universidade nove de julho
 •	CIÊNCIA DE DADOS
 
-##Integrantes##
+#Integrantes##
 
 •	Danilo Barbuena
 •	David Falcão de Sousa
@@ -12,10 +12,10 @@
 
 
 
-##Professor##
+#Professor
 Prof. Dr. Edson Melo de Souza
 
-##Conteúdo:##
+#Conteúdo:
 O principal objetivo desse trabalho é realizar o levantamento estatístico de acidentes aéreos ocorridos em território brasileiro, entre os anos de 2010 a 2019, buscando apresentar, de forma gráfica informações, que envolvem a aviação nacional.
 
 O conteúdo deste documento levou em consideração os dados, disponibilizados na plataforma Github.
