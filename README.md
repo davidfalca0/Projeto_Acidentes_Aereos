@@ -2,7 +2,7 @@
 
 •	Universidade nove de julho
 
-•	CIÊNCIA DE DADOS
+•	PROJETO DE GOVERNANCA EM TI
 
 ## Integrantes
 
